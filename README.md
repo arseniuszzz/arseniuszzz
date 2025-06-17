@@ -1,6 +1,12 @@
-![gif_1](https://github.com/arseniuszzz/arseniuszzz/blob/main/assets/vibe_lofi.gif?raw=true)
+<div style="text-align: center; max-width: 1000px; max-height: 450px; overflow: hidden;">
+  <img 
+    src="https://github.com/arseniuszzz/arseniuszzz/blob/main/assets/vibe_lofi.gif?raw=true" 
+    alt="Lofi Vibe" 
+    style="max-height: 100%; transform: scale(1.2); transform-origin: center;" 
+  />
+</div>
 
-## Hi there 👋
+## Привет 👋 Меня зовут Арсений!
 
 <!--
 **arseniuszzz/arseniuszzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
