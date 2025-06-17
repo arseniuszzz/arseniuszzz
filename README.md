@@ -1,6 +1,6 @@
 <div align="center" style="width: 80%; margin: 0 auto; overflow: hidden;">
   <img 
-    src="https://github.com/arseniuszzz/arseniuszzz/blob/main/assets/vibe_lofi.gif?raw=true" 
+    src="https://github.com/arseniuszzz/arseniuszzz/blob/main/assets/vibe_lofi_cut.gif?raw=true" 
     alt="Lofi Vibe" 
     style="width: 120%; margin-left: -10%;" 
   />
