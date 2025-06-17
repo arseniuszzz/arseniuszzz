@@ -1,4 +1,4 @@
-![gif_1](![gif_1](https://github.com/arseniuszzz/arseniuszzz/blob/main/assets/vibe_lofi.gif?raw=true))
+![gif_1](https://github.com/arseniuszzz/arseniuszzz/blob/main/assets/vibe_lofi.gif?raw=true)
 
 ## Hi there 👋
 
