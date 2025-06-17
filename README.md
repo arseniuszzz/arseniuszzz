@@ -1,9 +1,5 @@
-<div style="text-align: center; max-width: 1000px; max-height: 450px; overflow: hidden;">
-  <img 
-    src="https://github.com/arseniuszzz/arseniuszzz/blob/main/assets/vibe_lofi.gif?raw=true" 
-    alt="Lofi Vibe" 
-    style="max-height: 100%; transform: scale(1.2); transform-origin: center;" 
-  />
+<div style="text-align: center; max-height: 450 px; overflow: hidden;">
+  <img src="https://github.com/arseniuszzz/arseniuszzz/blob/main/assets/vibe_lofi.gif?raw=true" alt="Lofi Vibe" style="width: auto; max-height: 100%;" />
 </div>
 
 ## Привет 👋 Меня зовут Арсений!
