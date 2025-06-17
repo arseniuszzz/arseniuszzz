@@ -1,3 +1,5 @@
+![gif_1](https://github.com/arseniuszzz/arseniuszzz/assets/vibe_lofi.gif)
+
 ## Hi there 👋
 
 <!--
