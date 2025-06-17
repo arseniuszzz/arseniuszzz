@@ -46,8 +46,8 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.khronos.org/opencl/" target="_blank" rel="noreferrer"><img src="https://www.khronos.org/assets/images/API_OpenCL_100px_May16.png" alt="opencl" width="40" height="40"/></a>
-  <a href="https://rapidminer.com" target="_blank" rel="noreferrer"><img src="https://rapidminer.com/wp-content/uploads/2020/07/rapidminer-logo.svg" alt="rapidminer" width="40" height="40"/></a>
+  <a href="https://www.khronos.org/opencl/" target="_blank" rel="noreferrer"><img src="https://www.khronos.org/assets/images/api_logos/opencl3_rgb_wht.svg" alt="opencl" width="40" height="40"/></a>
+  <a href="https://rapidminer.com" target="_blank" rel="noreferrer"><img src="http://www.w3.org/2000/svg" alt="rapidminer" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">🗃️ Базы данных и ORM:</h4>
