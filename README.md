@@ -95,8 +95,8 @@
 <h4 align="left">🔮 Работа с LLM и AI-ассистентами:</h4>
 <p align="left">
   <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/></a>
-  <a href="https://deepseek.com" target="_blank" rel="noreferrer"><img src="https://github.com/arseniuszzz/arseniuszzz/blob/main/assets/deepseek_logo.png?raw=true" alt="deepseek" width="50" height="40"/></a>
-  <a href="https://copilot.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/736x/1a/a9/ba/1aa9ba1e57508a13a22dfa75aadd5d2f.jpg" alt="copilot" width="40" height="44"/></a>
+  <a href="https://deepseek.com" target="_blank" rel="noreferrer"><img src="https://github.com/arseniuszzz/arseniuszzz/blob/main/assets/deepseek_logo.png?raw=true" alt="deepseek" width="55" height="40"/></a>
+  <a href="https://copilot.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/736x/1a/a9/ba/1aa9ba1e57508a13a22dfa75aadd5d2f.jpg" alt="copilot" width="44" height="40"/></a>
 </p>
 
 <p align="center">
