@@ -95,9 +95,8 @@
 <h4 align="left">🔮 Работа с LLM и AI-ассистентами:</h4>
 <p align="left">
   <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/></a>
-  <a href="https://deepseek.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/D/deepseek-logo-0B4D55B5B4-seeklogo.com.png" alt="deepseek" width="40" height="40"/></a>
-  <a href="https://copilot.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Microsoft_Copilot_Alt_Logo.svg" alt="copilot" width="40" height="40"/></a>
-  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/GitHub_Copilot_Alt_Logo.svg" alt="github-copilot" width="40" height="40"/></a>
+  <a href="https://deepseek.com" target="_blank" rel="noreferrer"><img src="https://images.seeklogo.com/logo-png/61/1/deepseek-ai-icon-logo-png_seeklogo-611473.png" alt="deepseek" width="40" height="40"/></a>
+  <a href="https://copilot.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://images.seeklogo.com/logo-png/50/1/microsoft-365-copilot-logo-png_seeklogo-501781.png" alt="copilot" width="40" height="40"/></a>
 </p>
 
 <p align="center">
