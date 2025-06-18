@@ -96,7 +96,7 @@
 <p align="left">
   <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/></a>
   <a href="https://deepseek.com" target="_blank" rel="noreferrer"><img src="https://cdn.deepseek.com/logo.png?x-image-process=image%2Fresize%2Cw_828" alt="deepseek" width="189" height="40"/></a>
-  <a href="https://copilot.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/736x/1a/a9/ba/1aa9ba1e57508a13a22dfa75aadd5d2f.jpg" alt="copilot" width="160" height="40"/></a>
+  <a href="https://copilot.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/736x/1a/a9/ba/1aa9ba1e57508a13a22dfa75aadd5d2f.jpg" alt="copilot" width="40" height="40"/></a>
 </p>
 
 <p align="center">
