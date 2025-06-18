@@ -72,14 +72,14 @@
   <a href="https://www.microsoft.com/word" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="word" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/powerpoint" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/access" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" alt="msaccess" width="40" height="40"/></a>
-  <a href="https://www.spectralab.com" target="_blank" rel="noreferrer"><img src="https://www.spectralab.com/images/logo.png" alt="spectralab" width="40" height="40"/></a>
-  <a href="https://osc16.ru" target="_blank" rel="noreferrer"><img src="https://osc16.ru/local/templates/main/img/logo.svg" alt="osc16" width="40" height="40"/></a>
+  <a href="https://www.spectralab.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arseniuszzz/arseniuszzz/refs/heads/main/assets/SpectraLab_logo.ico" alt="spectralab" width="40" height="40"/></a>
+  <a href="[https://osc16.ru](https://www.evs.ru/kat_podr.php?kat=1_5&ysclid=mc1w9kwntb903293980)" target="_blank" rel="noreferrer"><img src="https://www.evs.ru/images/up_new_blue_1x1.jpg" alt="osc16" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">📹 Видеоаналитика:</h4>
 <p align="left">
-  <a href="https://www.trassir.com" target="_blank" rel="noreferrer"><img src="https://www.trassir.com/local/templates/trassir_2020/assets/img/logo.svg" alt="trassir" width="40" height="40"/></a>
-  <a href="https://www.jvsg.com" target="_blank" rel="noreferrer"><img src="https://www.jvsg.com/wp-content/uploads/2021/03/logo-jvsg.png" alt="ipvideodesign" width="40" height="40"/></a>
+  <a href="https://www.trassir.com" target="_blank" rel="noreferrer"><img src="https://trassir.ru/local/templates/trassir.ru/images/logo.svg" alt="trassir" width="40" height="40"/></a>
+  <a href="https://www.jvsg.com" target="_blank" rel="noreferrer"><img src="https://img.softline.com/mcf/f9671af72152b33a20720b6b1bffa11b/c5d7f625fcc48c5d8602/scale-dec-275x275.png" alt="ipvideodesign" width="40" height="40"/></a>
 </p>
 
 <p align="center">
