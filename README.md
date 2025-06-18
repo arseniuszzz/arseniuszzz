@@ -41,7 +41,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
   <a href="https://rapidminer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arseniuszzz/arseniuszzz/cb6e93e5595f1d5246e0fd43eb2737f06a29a2bf/assets/logo_altair.svg" alt="rapidminer" width="40" height="40"/></a>
 </p>
 
@@ -51,6 +50,10 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/></a>
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/></a>
   <a href="https://www.khronos.org/opencl/" target="_blank" rel="noreferrer"><img src="https://www.khronos.org/assets/images/api_logos/opencl3_rgb_wht.svg" alt="opencl" width="40" height="40"/></a>
 </p>
 
@@ -66,7 +69,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://kompas.ru" target="_blank" rel="noreferrer"><img src="https://sun9-59.userapi.com/impg/TRUZ2x5VFvKXXG5zZCAf6hUvDU8-axunocdk-w/KhFrfYP2SD4.jpg?size=998x998&quality=95&sign=06c9d7c87c0ef030a3035676e7c43e88&type=album" alt="kompas3d" width="40" height="40"/></a>
   <a href="https://www.solidworks.com" target="_blank" rel="noreferrer"><img src="https://sun9-58.userapi.com/impg/N1Ry077Y8JouePDQBwVqfZhq8iVyVeEBf6eeDw/_XfL6ajR5p4.jpg?size=600x600&quality=96&sign=edfb8060d64b69be145a6deaeac5abc1&type=album" alt="solidworks" width="40" height="40"/></a>
-  <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"><img src="https://www.labcenter.com/images/xproteus-logo-with-text.png.pagespeed.ic.ygprHDR3il.webp" alt="proteus" width="40" height="40"/></a>
+  <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"><img src="https://www.labcenter.com/images/xproteus-logo-with-text.png.pagespeed.ic.ygprHDR3il.webp" alt="proteus" width="80" height="40"/></a>
 </p>
 
 <h4 align="left">📊 Офисные:</h4>
