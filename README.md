@@ -60,9 +60,9 @@
 <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
-  <a href="https://kompas.ru" target="_blank" rel="noreferrer"><img src="https://kompas.ru/upload/medialibrary/3b9/3b9d8a6a8d2e5e5e5e5e5e5e5e5e5e5e.png" alt="kompas3d" width="40" height="40"/></a>
-  <a href="https://www.solidworks.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/SOLIDWORKS_logo.png" alt="solidworks" width="40" height="40"/></a>
-  <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"><img src="https://www.labcenter.com/wp-content/uploads/2018/10/proteus-logo.png" alt="proteus" width="40" height="40"/></a>
+  <a href="https://kompas.ru" target="_blank" rel="noreferrer"><img src="https://sun9-59.userapi.com/impg/TRUZ2x5VFvKXXG5zZCAf6hUvDU8-axunocdk-w/KhFrfYP2SD4.jpg?size=998x998&quality=95&sign=06c9d7c87c0ef030a3035676e7c43e88&type=album" alt="kompas3d" width="40" height="40"/></a>
+  <a href="https://www.solidworks.com" target="_blank" rel="noreferrer"><img src="https://sun9-58.userapi.com/impg/N1Ry077Y8JouePDQBwVqfZhq8iVyVeEBf6eeDw/_XfL6ajR5p4.jpg?size=600x600&quality=96&sign=edfb8060d64b69be145a6deaeac5abc1&type=album" alt="solidworks" width="40" height="40"/></a>
+  <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"><img src="https://www.labcenter.com/images/xproteus-logo-with-text.png.pagespeed.ic.ygprHDR3il.webp" alt="proteus" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">📊 Офисные и научные:</h4>
