@@ -78,8 +78,6 @@
   <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/word" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="word" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/powerpoint" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="40" height="40"/></a>
-  <a href="https://www.spectralab.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arseniuszzz/arseniuszzz/refs/heads/main/assets/SpectraLab_logo.ico" alt="spectralab" width="40" height="40"/></a>
-  
 </p>
 
 <h4 align="left">📹 Видеоаналитика:</h4>
@@ -89,9 +87,24 @@
   <a href="https://www.evs.ru/kat_podr.php?kat=1_5&ysclid=mc1w9kwntb903293980" target="_blank" rel="noreferrer"><img src="https://www.evs.ru/images/up_new_blue_1x1.jpg" alt="osc16" width="40" height="40"/></a>
 </p>
 
+<h4 align="left">📔 Прочие:</h4>
+<p align="left">
+  <a href="https://www.spectralab.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arseniuszzz/arseniuszzz/refs/heads/main/assets/SpectraLab_logo.ico" alt="spectralab" width="40" height="40"/></a>
+</p>
+
+<h4 align="left">🔮 Работа с LLM и AI-ассистентами:</h4>
+<p align="left">
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/></a>
+  <a href="https://deepseek.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/D/deepseek-logo-0B4D55B5B4-seeklogo.com.png" alt="deepseek" width="40" height="40"/></a>
+  <a href="https://copilot.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Microsoft_Copilot_Alt_Logo.svg" alt="copilot" width="40" height="40"/></a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/GitHub_Copilot_Alt_Logo.svg" alt="github-copilot" width="40" height="40"/></a>
+</p>
+
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
+
 
 <!--
 **arseniuszzz/arseniuszzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
