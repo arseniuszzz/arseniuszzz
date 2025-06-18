@@ -69,7 +69,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://kompas.ru" target="_blank" rel="noreferrer"><img src="https://sun9-59.userapi.com/impg/TRUZ2x5VFvKXXG5zZCAf6hUvDU8-axunocdk-w/KhFrfYP2SD4.jpg?size=998x998&quality=95&sign=06c9d7c87c0ef030a3035676e7c43e88&type=album" alt="kompas3d" width="40" height="40"/></a>
   <a href="https://www.solidworks.com" target="_blank" rel="noreferrer"><img src="https://sun9-58.userapi.com/impg/N1Ry077Y8JouePDQBwVqfZhq8iVyVeEBf6eeDw/_XfL6ajR5p4.jpg?size=600x600&quality=96&sign=edfb8060d64b69be145a6deaeac5abc1&type=album" alt="solidworks" width="40" height="40"/></a>
-  <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"><img src="https://www.labcenter.com/images/xproteus-logo-with-text.png.pagespeed.ic.ygprHDR3il.webp" alt="proteus" width="80" height="40"/></a>
+  <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"><img src="https://www.labcenter.com/images/xproteus-logo-with-text.png.pagespeed.ic.ygprHDR3il.webp" alt="proteus" width="160" height="40"/></a>
 </p>
 
 <h4 align="left">📊 Офисные:</h4>
