@@ -54,7 +54,7 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/></a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/></a>
-  <a href="https://www.khronos.org/opencl/" target="_blank" rel="noreferrer"><img src="https://www.khronos.org/assets/images/api_logos/opencl3_rgb_wht.svg" alt="opencl" width="40" height="40"/></a>
+  <a href="https://www.khronos.org/opencl/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenCL_logo.svg/512px-OpenCL_logo.svg.png" alt="opencl" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">🗃️ Базы данных:</h4>
